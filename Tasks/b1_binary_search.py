@@ -1,3 +1,4 @@
+
 def left_bound(elem_, arr_):
 	left = -1
 	right = len(arr_)
